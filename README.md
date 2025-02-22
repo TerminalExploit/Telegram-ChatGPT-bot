@@ -40,8 +40,8 @@ Telegram-ChatGPT-bot/
 ## Installation
 1. **Clone the repository:**
 ```
-git clone https://github.com/Artemk1z/Telegram-ChatGPT-bot.git
-cd your-repository
+git clone https://github.com/TerminalExploit/Telegram-ChatGPT-bot.git
+cd Telegram-ChatGPT-bot
 ```
 
 2. **Install dependencies:**
